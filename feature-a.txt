@@ -1,3 +1,2 @@
 Feature A implementation
 This is a new feature
-Additional feature A details
